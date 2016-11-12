@@ -1,0 +1,14 @@
+﻿{
+    "file": "https://raw.githubusercontent.com/lutziye/AcceptanceContingencies/master/final2_data_6riskfactors.csv",
+    "name": "AcceptanceContingencies",
+    "header": 0,
+    "separator": ",",
+    "skip": 0,
+    "meta": [
+	{ "type": "id", "index": 0, "name": "ID" },
+	{ "type": "float", "index": 1, "name": "avg_ANXIETY" }
+    ],
+    "sets": [
+        { "format": "binary", "start": 2, "end": 10 }
+    ]
+}
